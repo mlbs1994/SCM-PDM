@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapsSCM</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="config">Configurações</string>
+    <string name="about">Sobre</string>
+    <string name="exit">Sair</string>
+</resources>
